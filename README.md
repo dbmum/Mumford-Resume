@@ -1,60 +1,57 @@
-# md-resume
+---
+layout: cv
+title: David Mumford's Resume
+---
+# David Mumford
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+<div id="webaddress">
+<a href="8034876490">(803) 487-6490</a>
+| <a href="dbmum7@gmail.com">dbmum7@gmail.com</a>
+| <a href="https://github.com/dbmum">GitHub</a>
+</div>
 
-***
 
-## Customization
+## Education
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+`2020 - 2024`
+__Brigam Young University - Idaho__, Rexburg, ID
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+- Bachelor of Science in Computer Science
+- 3.7 GPA
+- Participated in Hackathon 2022 – 24 hour coding competition
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## Related Experience
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### Internship
 
-adding your skills, jobs and education.
+`January 20223 - April 2023`
+__The Church of Jesus Christ of Later-Day Saints ICS__, Riverton, UT
+_Full Stack Developer Intern_
+- Worked on Internationally used software
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-## Distribution
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
+## Service and Work History
 
-### I. Use Github Pages to publish it online
+`2020-2022`
+__Fedex Package Handler__, Rigby ID
+- Maintaining status as a full-time student while working third-shift hours daily 
+- Evaluated the quality of packages quickly to determine if repairs where needed
+- Trained others for understanding, so that they can be an effective part of the process  
+- Reliably kept up the rate of work that was expected of me, and striving to do better
 
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
 
-![](docs_setup.png)
+`2018-2020`
+__Service Missionary__, Manaus, Brazil
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+•	Worked 12-hour days, 7 days a week
+•	Learned how to be a self-starter and accountable to myself and my leaders 
+•	Lead a team of 15-35 other full-time volunteers and offered training and coaching
+•	Fluency in Portuguese, Experienced in Spanish
 
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
 
-## Styling
+<!-- ### Footer
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+Last updated: Dec 2022 -->
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
