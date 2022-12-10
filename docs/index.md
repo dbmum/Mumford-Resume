@@ -2,7 +2,7 @@
 layout: cv
 title: David Mumford's Resume
 ---
-# david Mumford
+# David Mumford
 
 
 <div id="webaddress">
