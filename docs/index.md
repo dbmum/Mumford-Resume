@@ -28,6 +28,7 @@ __Brigam Young University - Idaho__, Rexburg, ID
 
 * Python
 * Machine Learning
+* Data Science
 * DataBricks
 * AWS
 * Visualizations
@@ -41,11 +42,8 @@ __The Church of Jesus Christ of Later-Day Saints ICS__, Riverton, UT
 
 _Data Engineer Intern_
 * Built a notification system to detect changes in 1.2 million unique rows of data 
-
 * Made a load testing framework to simulate requests and diagnose issues on a cloud 
-
 * Maintained unit tests throughout development to be run daily in the pipeline 
-
 * Applied my school learning to add to my team and build them up  
 
 
@@ -54,14 +52,15 @@ _Data Engineer Intern_
 
 `2020-Present`
 __Fedex Ground__, Rigby ID
-_Package Handler Trainer_
+
+### Package Handler Trainer
 
 * Maintaining status as a full-time student while working third-shift hours daily
 * Evaluated the quality of packages quickly to determine if repairs were needed
 * Trained others for understanding, so that they can be an effective part of the process  
 * Resolved data issues with addresses to ensure proper delivery to customer
 
-_Package Handler_
+### Package Handler
 
 
 `2018-2020`
