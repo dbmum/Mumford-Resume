@@ -37,7 +37,7 @@ __Brigam Young University - Idaho__, Rexburg, ID
 
 ### Internship
 
-`January 20223 - April 2023`
+`2023`
 __The Church of Jesus Christ of Later-Day Saints ICS__, Riverton, UT
 
 _Data Engineer Intern_
@@ -53,14 +53,15 @@ _Data Engineer Intern_
 `2020-Present`
 __Fedex Ground__, Rigby ID
 
-### Package Handler Trainer
+_Package Handler Trainer_
+_Package Handler_
 
 * Maintaining status as a full-time student while working third-shift hours daily
 * Evaluated the quality of packages quickly to determine if repairs were needed
 * Trained others for understanding, so that they can be an effective part of the process  
 * Resolved data issues with addresses to ensure proper delivery to customer
 
-### Package Handler
+
 
 
 `2018-2020`
