@@ -53,7 +53,7 @@ _Data Engineer Intern_
 `2020-Present`
 __Fedex Ground__, Rigby ID
 
-_Package Handler Trainer | Package Handler_
+_Package Handler Trainer & Package Handler_
 
 * Maintaining status as a full-time student while working third-shift hours daily
 * Evaluated the quality of packages quickly to determine if repairs were needed
