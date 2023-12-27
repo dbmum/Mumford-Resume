@@ -4,7 +4,7 @@ title: David Mumford's Resume
 ---
 # David Mumford
 
-Machine Learning Engineer
+## Machine Learning Engineer
 
 <div id="webaddress">
 <a href="8034876490">(803) 487-6490</a>
